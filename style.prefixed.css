@@ -1,5 +1,7 @@
 body {
     font-family: 'Lato';
+    display: -ms-flexbox;
+    display: flex;
 }
 p {
     font-style: italic;
